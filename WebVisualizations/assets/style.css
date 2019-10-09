@@ -24,3 +24,43 @@ h4{
 img.cust-padding{
     padding:8px 10px 0px 0px;
 }
+
+.brightness img:hover {
+    /* opacity: .5; */
+    border: 3px solid purple;
+    padding: 0;
+}
+
+.permbrightness{
+    opacity: .5;
+}
+
+.navpadding{
+    padding: 15px;
+}
+
+@media (min-width: 500px) {
+    .card-viz-width {
+        width: 400px;
+    }
+
+    .card-body-width{
+        width: 720px;
+    }
+}
+
+@media (max-width: 500px) {
+    .card-viz-width {
+        width: 500px;
+        margin-top: 10px;
+    }
+
+    .card-body-width{
+        width: 500px;
+    }
+    
+    .row-split{
+        display: none;
+    }
+
+}
