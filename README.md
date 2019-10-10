@@ -26,6 +26,6 @@ The directory structure is as follows:
     * **/Resources**: contains the CSV data tables used in the analysis and HTML versions of those tables
     * **/assets**: contains CSS style documents and non-visualization pictures
     * **/pages**: contains every non-landing page HTML file
-    * **/visualization**: contains the visualization plots used for webpages
+    * **/visualizations**: contains the visualization plots used for webpages
 * index.html: the landing page
 * README.md: the README document
