@@ -1,7 +1,6 @@
 # Web-Design-Challenge
 A web visualization dashboard created using HTML/CSS in Bootstrap to summarize pharmaceutical analysis done in pandas. The link address is https://c-l-nguyen.github.io/Web-Design-Challenge/. The original analysis that generated the plots and summaries is at https://github.com/c-l-nguyen/pymaceuticals.
 
-
 This project demonstrates the use of HTML and CSS within a Bootstrap framework to produce a navigable website hosted on a personal Github Page. A custom Bootswatch theme (https://bootswatch.com/pulse/) was used to help develop the site. 
 
 The contents of the site are as follows:
