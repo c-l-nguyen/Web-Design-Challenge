@@ -22,10 +22,10 @@ The contents of the site are as follows:
     
 The directory structure is as follows:
 
-* /WebVisualizations
-    * /Resources: contains the CSV data tables used in the analysis and HTML versions of those tables
-    * /assets: contains CSS style documents and non-visualization pictures
-    * /pages: contains every non-landing page HTML file
-    * /visualization: contains the visualization plots used for webpages
+* **/WebVisualizations**
+    * **/Resources**: contains the CSV data tables used in the analysis and HTML versions of those tables
+    * **/assets**: contains CSS style documents and non-visualization pictures
+    * **/pages**: contains every non-landing page HTML file
+    * **/visualization**: contains the visualization plots used for webpages
 * index.html: the landing page
 * README.md: the README document
